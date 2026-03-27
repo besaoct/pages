@@ -54,7 +54,7 @@ However, no method of transmission or storage is 100% secure. While we strive to
 
 - **User Data**: We retain your Google Sign-In data (name, email, profile picture) and admin status as long as your account is active or as needed to provide services.
 - **Request Data**: Service request data (e.g., services, budget, description) is retained until you or an admin deletes it, or as required by law.
-- **Deletion**: You may request deletion of your data by contacting us at xhafin@gmail.com. We will delete your data within 30 days, except where retention is required by law.
+- **Deletion**: You may request deletion of your data by contacting us at besaoct@gmail.com. We will delete your data within 30 days, except where retention is required by law.
 
 ## Your Rights
 
@@ -64,7 +64,7 @@ You have the following rights regarding your personal information:
 - **Deletion**: Request deletion of your data (subject to legal requirements).
 - **Objection**: Object to certain uses of your data, such as analytics.
 
-To exercise these rights, contact us at xhafin@gmail.com or +91 8099103890. We will respond within 30 days.
+To exercise these rights, contact us at besaoct@gmail.com. We will respond within 30 days.
 
 ## Third-Party Services
 

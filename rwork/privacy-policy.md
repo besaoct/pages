@@ -89,6 +89,5 @@ For questions or concerns about this Privacy Policy, contact:
 
 **Masud Shafin Ahmed**  
 Email: besaoct@gmail.com  
-Phone: +91 8099103890
 
 By using Rwork, you agree to this Privacy Policy. Thank you for trusting us with your information.

@@ -59,6 +59,6 @@ We may update this policy from time to time. When we do, the new policy will be 
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-**Email:** [support@besaoct.space](mailto:support@besaoct.space)
+**Email:** [besaoct@gmail.com](mailto:besaoct@gmail.com)
 
 **Developer:** @besaoct

@@ -25,11 +25,11 @@ The App does not integrate third-party services that collect data, such as analy
 
 ## 4. Children’s Privacy
 
-Maxfire Boost is not directed toward children under 13. Since we do not collect any personal information, we do not knowingly collect data from users under 13. If a parent or guardian believes a child under 13 has interacted with the App in a way that concerns them, please contact us at [support@besaoct.space](mailto:support@besaoct.space), and we will address your concerns promptly, in compliance with COPPA.
+Maxfire Boost is not directed toward children under 13. Since we do not collect any personal information, we do not knowingly collect data from users under 13. If a parent or guardian believes a child under 13 has interacted with the App in a way that concerns them, please contact us at [besaoct@gmail.com](mailto:besaoct@gmail.com), and we will address your concerns promptly, in compliance with COPPA.
 
 ## 5. Your Data Rights
 
-As the App does not collect personal information, there is no personal data for you to access, correct, delete, or opt out of. If you have questions about the App’s functionality, you may contact us at [support@besaoct.space](mailto:support@besaoct.space).
+As the App does not collect personal information, there is no personal data for you to access, correct, delete, or opt out of. If you have questions about the App’s functionality, you may contact us at [besaoct@gmail.com](mailto:besaoct@gmail.com).
 
 ## 6. Data Security
 
@@ -56,6 +56,6 @@ We may update this Privacy Policy to reflect changes in our practices or legal r
 If you have questions, concerns, or requests regarding this Privacy Policy or the App, please contact us at:
 
 **BESAOCT**  
-Email: [support@besaoct.space](mailto:support@besaoct.space)
+Email: [besaoct@gmail.com](mailto:besaoct@gmail.com)
 
 We will respond to inquiries promptly, typically within 30 days, as required by applicable laws.
